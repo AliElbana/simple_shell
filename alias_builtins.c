@@ -1,7 +1,3 @@
-/*
- * File: alias_builtins.c
- * Auth: tewodros awedew and messi zewdi
- */
 #include "shell.h"
 
 int shellby_alias(char **args, char __attribute__((__unused__)) **front);

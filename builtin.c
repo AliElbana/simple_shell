@@ -1,7 +1,3 @@
-/*
- * File: builtin.c
- * Authors: tewodros awedew and messi zewde
- */
 #include "shell.h"
 int (*get_builtin(char *command))(char **args, char **front);
 int shellby_exit(char **args, char **front);
